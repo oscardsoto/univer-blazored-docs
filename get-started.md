@@ -2,7 +2,7 @@
 title: Get Started
 layout: home
 nav_order: 2
-permalink: /get-started/
+permalink: /getstarted/
 ---
 # {{ page.title }}
 
