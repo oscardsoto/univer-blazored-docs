@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 <div style="display: flex;">
-    <img src="/assets/images/logo.png" style="width: 80px; height: 80px; margin-right: 10px" alt="univer blazored logo"/>
+    <img src="https://oscardsoto.github.io/univer-blazored-docs/assets/images/logo.png" style="width: 80px; height: 80px; margin-right: 10px" alt="univer blazored logo"/>
     <h1>Univer Blazored</h1>
 </div>
 
