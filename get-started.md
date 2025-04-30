@@ -24,7 +24,7 @@ Once the component is initialized, you can access both the Agent and the User Ma
 
 The Agent and the User Manager works this way: after a method is called, it queues the methods that are required with their respective parameters to the Js Interop.
 
-![alt0](/assets/images/diagram0.png)
+![alt0](https://oscardsoto.github.io/univer-blazored-docs/assets/images/diagram0.png)
 
 It also can call a method directly from the Js Interop if needed.
 
