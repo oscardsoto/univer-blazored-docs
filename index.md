@@ -61,7 +61,7 @@ The Document component of Univer Blazored is still on developement. These featur
 
 ## License
 
-Univer Blazored is distributed by an [Apache-2.0 license](#)
+Univer Blazored is distributed by an [Apache-2.0 license](https://github.com/oscardsoto/UniverBlazored/blob/master/LICENSE)
 
 ## Get Started!
 
